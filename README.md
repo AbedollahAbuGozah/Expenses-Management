@@ -5,4 +5,7 @@ Daily Expenses Management System: Add, Delete, and View Your Expenses with Ease
 * Tailwind
 * Javascript
 * CodeIgniter4
+
+  ![Alt Text](pic1.png)
+
   

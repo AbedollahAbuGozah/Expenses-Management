@@ -11,6 +11,13 @@ Daily Expenses Management System: Add, Delete, and View Your Expenses with Ease
   ![Alt Text](pic2.png)
 ### Dashboard page
   ![Alt Text](pic3.png)
+### Profile page
+  ![Alt Text](pic4.png)
+### User edit page
+  ![Alt Text](pic5.png)
+
+
+
 
 
 

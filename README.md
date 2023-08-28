@@ -1,5 +1,5 @@
 # Expenses-Management
-Daily Expenses Management System: Add, Delete, and View Your Expenses with Ease
+Daily Expenses Management System with simple profile page: Add, Delete, and View Your Expenses with Ease
 ## Skills
 * HTML
 * Tailwind

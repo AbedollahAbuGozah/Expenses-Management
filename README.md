@@ -5,7 +5,7 @@ also the user can see the expenses changes as a different charts depends
 on different periods(daily, monthly, yearly).
   ## Database
   Databse is created as SQL Database
-  #### tables 
+  #### Tables 
   * Users: has five coulmns(id, email, first_name, last_name, password)
   * Expenses: has    columns(id, amount, description, user_id)
   #### Relations

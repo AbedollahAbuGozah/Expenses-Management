@@ -1,5 +1,8 @@
 # Expenses-Management
-Daily Expenses Management System with simple profile page: Add, Delete, and View Your Expenses with Ease
+Web application about manage daily expenses,
+The user can add and delete expense and he can see report about each  expense ,
+also the user can see the expenses changes as a different charts depends
+on different periods(daily, monthly, yearly).
 ## Skills
 * HTML
 * Tailwind

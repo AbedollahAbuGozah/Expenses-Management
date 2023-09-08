@@ -19,6 +19,14 @@ on different periods(daily, monthly, yearly).
 ### User edit page
   ![Alt Text](pic5.png)
 
+  ### Database
+  Databse is created as SQL Database
+  #### tables 
+  *Users: has five coulmns(id, email, first_name, last_name, password)
+  *Expenses: has    columns(id, amount, description, user_id)
+  ### Relations
+  User-Expense: one-To-Mant relation so each user has many expenses and each expense belong to one user
+
 
 
 
